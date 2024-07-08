@@ -1,8 +1,9 @@
 ### This script may help fix screen tearing issues on systems with an Intel CPU.
 -- Make sure you have installed xf86-video-intel package.
-      ```
-      sudo pacman -S xf86-video-intel
-      ```
+
+   ```
+sudo pacman -S xf86-video-intel
+   ```
 
 To install and run the script, follow these steps:
 
