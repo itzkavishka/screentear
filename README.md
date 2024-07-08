@@ -19,3 +19,6 @@ chmod +x tear.sh
    ```
 sudo ./tear.sh
    ```
+<details>
+<summary><b>OR</b></summary>
+Just copy that 20-intel.conf file to /etc/X11/xorg.conf.d/
